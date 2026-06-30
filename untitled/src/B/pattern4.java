@@ -2,7 +2,7 @@ package B;
 
 public class pattern4 {
     public static void main(String [] args){
-        int n=7;
+        int n=5;
         // * print by stars
         int x= n-1;
         for(int i=1;i<=n;i++){
